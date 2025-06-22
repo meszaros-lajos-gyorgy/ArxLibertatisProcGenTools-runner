@@ -31,7 +31,7 @@ A docker-based runner for [Fredlllll's ArxLibertatisProcGenTools](https://github
 
 ## Other tips and infos
 
-### Releasing generated level data as a mod
+### Grabbing the generated level data to release it as a mod
 
 To be able to see the generated files without anything else in there set ARX_DIR to an empty directory. Running
 `./scripts/generate.sh` will generate the level data regardless of arx.exe or any asset of the game is there or not.
