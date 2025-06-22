@@ -2,6 +2,8 @@
 
 A docker-based runner for Fredlllll's ArxLibertatisProcGenTools
 
+![Preview of the output of maps/exampe.ps1](preview-of-example.jpg?raw=true "Preview of the output of maps/exampe.ps1")
+
 ## How to use
 
 Requirements:
