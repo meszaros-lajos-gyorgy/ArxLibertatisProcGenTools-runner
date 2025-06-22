@@ -2,7 +2,11 @@
 
 A docker-based runner for Fredlllll's ArxLibertatisProcGenTools
 
-## Install and uninstall
+## How to use
+
+Requirements:
+
+- [docker](https://www.docker.com/get-started/)
 
 ### Install
 
