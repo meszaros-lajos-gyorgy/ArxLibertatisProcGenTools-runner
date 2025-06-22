@@ -14,6 +14,8 @@ RUN rm packages-microsoft-prod.deb
 RUN apt -y update
 RUN apt -y install powershell
 
+RUN mkdir -p /arx/scripts
+
 # keep the container alive
 # https://stackoverflow.com/a/42873832/1806628
 ENTRYPOINT ["tail", "-f", "/dev/null"]
