@@ -1,6 +1,6 @@
 # ArxLibertatisProcGenTools-runner
 
-A docker-based runner for Fredlllll's ArxLibertatisProcGenTools
+A docker-based runner for [Fredlllll's ArxLibertatisProcGenTools](https://github.com/fredlllll/ArxLibertatisProcGenTools/releases)
 
 ![Preview of the output of maps/exampe.ps1](preview-of-example.jpg?raw=true "Preview of the output of maps/exampe.ps1")
 
@@ -36,7 +36,3 @@ Requirements:
 To be able to see the generated files without anything else in there set ARX_DIR to an empty directory. Running
 `./scripts/generate.sh` will generate the level data regardless of arx.exe or any asset of the game is there or not.
 You can then bundle the contents of that folder up and publish it as a mod.
-
-## Links
-
-- [Fredlllll's ArxLibertatisProcGenTools repo](https://github.com/fredlllll/ArxLibertatisProcGenTools)
