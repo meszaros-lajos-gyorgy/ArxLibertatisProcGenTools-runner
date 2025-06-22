@@ -6,9 +6,9 @@ A docker-based runner for [Fredlllll's ArxLibertatisProcGenTools](https://github
 
 ## How to use
 
-Requirements:
+### Requirements:
 
-- [docker](https://www.docker.com/get-started/)
+- [Docker](https://www.docker.com/get-started/)
 
 ### Install
 
