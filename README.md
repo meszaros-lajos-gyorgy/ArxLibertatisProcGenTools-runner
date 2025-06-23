@@ -1,6 +1,6 @@
 # ArxLibertatisProcGenTools-runner
 
-A docker-based runner for [Fredlllll's ArxLibertatisProcGenTools](https://github.com/fredlllll/ArxLibertatisProcGenTools/releases)
+A docker-based runner for [fredlllll's ArxLibertatisProcGenTools](https://github.com/fredlllll/ArxLibertatisProcGenTools/releases)
 
 ![Preview of the output of maps/exampe.ps1](preview-of-example.jpg?raw=true "Preview of the output of maps/exampe.ps1")
 
@@ -12,7 +12,7 @@ A docker-based runner for [Fredlllll's ArxLibertatisProcGenTools](https://github
 
 ### Install
 
-1. Download the latest release from [Fredlllll's repo](https://github.com/fredlllll/ArxLibertatisProcGenTools/releases)
+1. Download the [latest release of ArxLibertatisProcGenTools](https://github.com/fredlllll/ArxLibertatisProcGenTools/releases)
    to a folder you like
 1. Copy `.env.sample` as `.env`
 1. Inside `.env` set `LIB_DIR` to the folder you've chosen in step 1
