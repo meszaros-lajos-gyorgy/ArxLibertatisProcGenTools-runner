@@ -19,7 +19,7 @@ A docker-based runner for [fredlllll's ArxLibertatisProcGenTools](https://github
 1. Inside `.env` set `ARX_DIR` to your Arx Fatalis/Arx Libertatis dir is with `arx.exe` in it
 1. Run `./scripts/install.sh`
 
-### Generate level and testing it out
+### Generating a level and testing it out
 
 1. Run `./scripts/generate.sh ./maps/example.ps1` to execute a script that Fred's library can parse. You can pass in
    any ps1 scripts from any folder to generate.sh as a parameter
